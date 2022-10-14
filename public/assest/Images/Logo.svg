@@ -1,0 +1,16 @@
+<svg width="253" height="50" viewBox="0 0 253 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 0H253V50H0V0Z" fill="url(#pattern0)"/>
+<path d="M0 0H253V50H0V0Z" fill="url(#pattern1)"/>
+<path d="M0 0H253V50H0V0Z" fill="url(#pattern2)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_61_3" transform="scale(0.00395257 0.02)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_61_3" transform="scale(0.00395257 0.02)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_61_3" transform="scale(0.00395257 0.02)"/>
+</pattern>
+</defs>
+</svg>

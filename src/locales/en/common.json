@@ -1,0 +1,240 @@
+{
+    "home":{
+        "banner":{
+            "banner_title_1": "The way to",
+        "banner_title_2": "date",
+        "banner_text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem, ipsum. In, eligendi.....",
+        "please_enter_name": "Please enter your name"
+        },
+        "card":{
+            "text":"Approximately 4 million used Datings."
+        },
+        "member":{
+            "title_1":"It all starts with a Date Only",
+            "title_2":"True People",
+            "text_1":"You find us, finally, and you are already in love. More than 4.000.000 around the world already shared the same experiences and uses our system. Joining us today just got, Learn from them and try to make it to this board. This  based on BuddyPress for the community functionality. It allows you to easily create and community for dating. You can add your own branding text and images right away.",
+            "text_2":"Learn from them and try to make it to this board. This  based on BuddyPress for the community functionality. It allows you to easily  add your own branding text and images right away.",
+            "swiper_title":"Latest Registered Members"
+        },
+        "user_say":{
+            "title_1":"What Our Users",
+            "title_2":"Say",
+            "text_1":"Learn from them and try to make it to this board. This based on BuddyPress for the community functionality. It allows you to easily add your images right away.",
+            "swiper_title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum dolor architecto provident? Possimus sunt laborum voluptatibus, Lorem ipsum dolor.",
+            "swiper_title2":"Lorem ipsum dolor sit amet.",
+            "swiper_name":"Unites state",
+            "swiper_bottom":"Desinger"
+        },
+        "tips":{
+            "title_1":"Dating",
+            "title_2":"Tips",
+            "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+            "text_1":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+            "text_2":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+            "text_3":"Reader will be distracted by the readable content of a page when looking at its layout.",
+            "text_4":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letter"
+        }
+    },
+    "navbar":{
+        "about":"About",
+        "contact":"Contact",
+        "faq":"FAQ",
+        "login":"Login",
+        "logout":"Logout",
+        "Request":"Request",
+        "Buy_Plan":"Buy Plan",
+        "My_Plan":"My Plan",
+        "Search":"Search",
+        "My_account":"My account",
+        "Profile":"Profile",
+        "Privacy_Policy":"Privacy Policy",
+        "Terms":"Terms & Condition",
+        "email":"info@dating.com",
+        "footer1":"© 2022 All rights reserved by",
+        "footer2":"Dating Bh"
+    },
+    "about":{
+        "title":"About Dating BH",
+        "bredcumb1":"Home",
+        "bredcumb2":"About Us",
+        "main_text":"This is a simply dummy heading or some caption show here",
+        "text1":"Lorem ipsum dolor amet the consectetur adipiscing eiusmod incididun caption laibore lorem ipsum dolor aaamet caption lorem ipsum dolor amet consectetur the adipiscing caption ipsum dolor sit amet consectetur adipiscing eiusmod tempor incididunt the caption lorem.Lorem ipsum dolor amet the consectetur adipiscing eiusmod tempor incididunt the caption laibore lorem ipsum dolor aaamet caption lorem ipsum sit amet, consectetur the adipiscing caption ipsum dolor sit amet consectetur it adipiscing the eiusmod tempor incididunt the caption laibore lorem imply dummy details.",
+        "text2":"Lorem ipsum dolor amet the consectetur adipiscing eiusmod incididunt the caption laibore lorem ipsum dolor aaamet caption lorem ipsum dolor sit amet, consectetur the adipiscing.",
+        "box1":"Our Vison",
+        "box2":"Our Mission",
+        "box_text":"Lorem ipsum dolor amet the dolor aaamet caption lorem ipsum dolor sit amet. consectetur adipiscing eiusmod incididunt the caption laibore lorem ipsum dolor aaamet caption lorem ipsum. Lorem ipsum dolor amet the dolor aaamet caption the text ipsum dolor amet consectetur adipiscing eiusmod dummy text."
+    },
+    "contact":{
+        "title":"Contact Us",
+        "bredcumb1":"Home",
+        "bredcumb2":"Contact Us",
+        "f_name":"First name",
+        "l_name":"Last name",
+        "email":"Email address",
+        "number":"Phone number",
+        "massage":"Massage",
+        "button":"Submit",
+        "reach":"Reach Us On",
+        "reach_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do some dummy caption eiusmod tempor aliqua.",
+        "call":"Call Us On",
+        "call_text":"+91 9876541321 , 033 32145",
+        "e_mail":"Email Us On",
+        "E_mail_text":"info@dating.com",
+        "social":"Connect With Social",
+        "placeholder":{
+            "name":"Enter here",
+            "email":"Enter Your email",
+            "number":"Enter Your phone no",
+            "massage":"Enter Your message"
+        },
+        "error":{
+            "f_name":"Please enter your first name",
+            "l_name":"Please enter your last name",
+            "email":"Please enter your email",
+            "number":"Please enter Mobile Number",
+            "massage":"Please enter your massage",
+            "number_2":"Phone number must be 10 digits.",
+            "email_2":"Invalid email address!"
+        }
+    },
+    "my_plan":{
+        "title":"My Plan",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed "
+    },
+    "table_header":{
+        "plan":"Plan",
+        "amount":"Amount",
+        "purchased_on":"Purchased On",
+        "contact_view":"Contact Views",
+        "contact_view_used":"Contact Views Used",
+        "contact_view_remaining":"Contact Views Remaining",
+        "name":"Name",
+        "date_time":" Date and Time"
+    },
+    "buy_plan":{
+        "title":"Buy Plan",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed ",
+        "card_text":"Contact Info Views",
+        "card_button":"Buy Now"
+    },
+    "profile_request":{
+        "title":"My Profile Contact Requests",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed "
+    },
+    "faq":{
+        "title":"Frequently Asked Questions",
+        "bredcumb1":"Home",
+        "bredcumb2":"Faq",
+        "boy":"For Boys",
+        "girl":"For Girls"
+    },
+    "form":{
+        "signup_modal":{
+            "title":"Join Now",
+            "name":"name",
+            "first_name":"First name",
+            "last_name":"last name",
+            "nationality":"Nationality",
+            "con_password":"Confirm Password",
+            "agree1":"I agree to Dating Bh all",
+            "agree2":"Terms & Condition",
+            "agree3":"and",
+            "agree4":"Privacy Policy",
+            "already":"Already have an account?",
+            "gender":"Gender",
+            "male":"Male",
+            "female":"Female",
+            "number":"Mobile Number",
+            "password":"Password",
+            "remember":"Remember Me",
+            "forgot":"Forgot Password?",
+            "Login_btn":"Login",
+            "button":"Signup Now",
+            "not":"Not a member yet ?",
+            "sign":"Sign Up",
+            "name_error":"Please enter your name",
+            "firstname_error":"Please enter your first name",
+            "lastname_error":"Please enter your last name",
+            "nationality_error":"Please select your nationality",
+            "password_error":"Please Enter your password",
+            "password_error2":"The password must be at least 6 characters.",
+            "con_password_error":"Please enter your confirm password",
+            "con_password_error2":"Password do NOT match",
+            "gender_error":"Please select your gender",
+            "number_error":"Please enter Mobile Number",
+            "number_error2":"Phone number must be 10 digits.",
+            "agree_error":"Please read Terms & Condition,Privacy Policy and agree.",
+            "image_error":"Upload at least 1 photo to continue",
+            "otp_error":"Please Enter otp"
+        },
+        "login_title":"Welcome Back",
+        "login_verify1":"You did not verified your mobile number yet.",
+        "login_verify2":"Click here to verify.",
+        "uploade_text1":"Click here to upload",
+        "uploade_text2":"You can upload jpg, jpeg and png file format",
+        "otp_title":"OTP Verification",
+        "otp_text":"Please enter the 6 digit code sent to you at",
+        "otp_enter":"Enter OTP",
+        "otp_button":"Submit",
+        "otp_bottom_text1":"Didn’t receive OTP yet?",
+        "otp_bottom_text2":"Resend OTP"
+    },
+    "profile":{
+        "title":"Now Complete your profile Info",
+        "text":"Please fill in the below fields to continue",
+        "button":"Save All Info"
+    },
+    "dashborad":{
+        "title":"Dashboard",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "last":"Last Login",
+        "sing":"Sign Up on DatingBH",
+        "profile":"My Profile Viewed",
+        "view":"Recently viewed my profile"
+    },
+    "search":{
+        "keyword":"Keywords",
+        "nationality":"Nationality",
+        "age":"Age",
+        "weight":"Weight",
+        "height":"Height",
+        "interests":"Interests",
+        "Showing":"Showing",
+        "of":"of",
+        "results":"results",
+        "sort":"sort by",
+        "rj":"Recently Joined",
+        "htl":"Age - High to Low",
+        "lth":"Age - Low to High"
+    },
+    "Girl_Profile":{
+        "headline":"Profile headline",
+        "birth":"Birthday",
+        "language":"Language speaks",
+        "weight":"Weight(KG)",
+        "height":"Height(CM)",
+        "body":"Body type",
+        "about":"About me",
+        "interests":"Interests",
+        "upload":"Upload Photo",
+        "upload_text":"1st photo will be default Profile picture",
+        "upload_text1":"and others will be additional pictures", 
+        "headline_error":"Please enter your profile headline",
+        "birth_error":"Please enter your birthday",
+        "language_error":"Please Select language",
+        "weight_error":"Please enter your weight",
+        "weight_error2":"Please enter Your correct weight",
+        "height_error":"Please select your height",
+        "body_error": "Please select your body type",
+        "about_error": "Please enter about you",
+        "interests_error":"Please select your interest",
+        "upload_error":"Upload at least 2 photo to continue",
+        "month_error":"Please enter your month",
+        "month_error2": "Please enter right month",
+        "date_error":"Please enter your date",
+        "date_error2": "Please enter right date",
+        "year_error":"Please enter your year"
+    }
+
+  }
+  

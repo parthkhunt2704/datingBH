@@ -1,0 +1,2146 @@
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-BoldItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue Book';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-BookItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-RegularItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-MediumItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-HeavyItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-LightItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Heavy.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Light.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Regular.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue Book';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Book.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Medium.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Bold.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-ThinItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-SemiBoldItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Thin.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reckless Neue';
+    src: url('../../../public/assest/fonts/reckless_neue/RecklessNeue-SemiBold.woff2') format('woff2'),
+        url('../../../public/assest/fonts/reckless_neue/RecklessNeue-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline Regular';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-RegularItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-SemiboldItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-LightItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Black.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-BoldItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Bold.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Regular.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-MediumItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Light.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-BlackItalic.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Medium.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('../../../public/assest/fonts/transfonter/TiemposHeadline-Semibold.woff2') format('woff2'),
+        url('../../../public/assest/fonts/transfonter/TiemposHeadline-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+.Home_Banner {
+    height: 100%;
+    background-color: #F9FDFF;
+    margin-top: 55px;
+    background-image: url("../../../public/assest/Images/banner.png");
+    background-position: bottom;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    height: 94vh;
+}
+
+.Banner_Content {
+    display: flex;
+    flex-direction: column !important;
+    align-content: center;
+    justify-content: center;
+    height: 55vh;
+}
+
+.Banner_Content h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-size: 79px;
+    font-weight: 700 !important;
+    line-height: 87px;
+    letter-spacing: -0.02em !important;
+    margin-bottom: 0 !important;
+}
+
+.Banner_Content p {
+    font-family: 'Lato';
+    color: #54515A;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.sinu-up-card {
+    display: flex;
+    flex-direction: column !important;
+    align-content: center;
+    justify-content: center;
+    height: 85vh;
+}
+
+.Banner_card {
+    font-family: 'Tiempos Headline' !important;
+    font-style: normal;
+    font-size: 34px !important;
+    line-height: 27px !important;
+    text-align: center;
+    letter-spacing: 0.03em !important;
+    color: #000000;
+    font-weight: 500 !important;
+    margin-bottom: 30px !important;
+}
+
+.sinu-up-card .MuiPaper-root,
+.sinu-up-card2 .MuiPaper-root {
+    background: rgba(255, 255, 255, 0.89);
+    box-shadow: 0px 2px 12px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    padding: 40px 20px 30px 20px !important;
+    margin-bottom: 30px !important;
+
+}
+
+.sinu-up-card2 .MuiPaper-root {
+    width: 428px;
+}
+
+.sinu-up-card .MuiFormControl-root,
+.sinu-up-card2 .MuiFormControl-root {
+    width: 100%;
+    color: black !important;
+}
+
+.css-u4tvz2-MuiFormLabel-root {
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.css-1nrlq1o-MuiFormControl-root,
+.MuiFormGroup-root {
+    color: black !important;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+}
+
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked,
+.css-1c2i806-MuiFormLabel-root-MuiInputLabel-root.Mui-error,
+.css-1a5icme.Mui-checked {
+    color: #EB222C !important;
+}
+
+.css-aqpgxn-MuiFormLabel-root-MuiInputLabel-root.Mui-error {
+    color: #54515A !important;
+}
+
+.css-u4tvz2-MuiFormLabel-root.Mui-focused {
+    color: #000 !important;
+}
+
+.Mui-focused {
+    color: #EB222C !important;
+}
+
+.css-1ptx2yq-MuiInputBase-root-MuiInput-root:after,
+.css-1vv4lmi::after {
+    border-bottom: 2px solid#EB222C !important;
+}
+
+.Card_color {
+    background: rgba(235, 34, 44, 0.02);
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.card_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 25px; */
+}
+
+.Member_content {
+    max-width: 1000px !important;
+    margin-top: 3rem;
+    text-align: center;
+    font-family: "Tiempos Headline";
+}
+
+.Member_content h1 {
+    font-size: 53px;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: -0.03em;
+}
+
+.Member_content span {
+    display: block;
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.Member_content p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: rgba(111, 110, 112, 0.92);
+}
+
+.Member_content h5 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #EB222C;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+    font-size: 10px !important;
+    color: white;
+    border-radius: 50%;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background-color: #EB222C !important;
+}
+
+.swiper-button-prev {
+    height: 27px;
+    border-radius: 50%;
+    padding: 7px 8px 6px 8px !important;
+    background-color: #2E2841;
+    left: 0px !important;
+    top: 60% !important;
+}
+
+.swiper-button-next {
+    top: 60% !important;
+    right: 0px !important;
+    height: 27px;
+    border-radius: 50%;
+    padding: 7px 8px 6px 8px !important;
+    background-color: #2E2841;
+}
+
+.mySwiper .img {
+    border-radius: 50%;
+}
+
+.user_back {
+    background-image: url("../../../public/assest/Images/black.svg");
+    background-repeat: no-repeat;
+    height: 7vh;
+    background-size: cover;
+    width: 100%;
+}
+
+.back_black {
+    background-color: #3A3A3A;
+    height: 100%;
+    padding: 40px 0 40px 0;
+}
+
+.User_say h1 {
+    color: white;
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+
+}
+
+.User_say span {
+    display: block;
+    font-weight: 600;
+}
+
+.User_say p {
+    color: #F3F3F3;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 27px;
+    /* or 142% */
+
+    letter-spacing: 0.02em;
+
+}
+
+.review_card {
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 20px !important;
+}
+
+.review_swiper {
+    padding-top: 18px;
+}
+
+.prev,
+.next {
+    z-index: 999;
+    font-size: 30px !important;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 50%;
+    padding: 0px 0 7px 4px;
+    /* padding-top: -5px !important; */
+    height: 38px;
+    width: 38px;
+    color: #3A3A3A !important;
+}
+
+.prev svg,
+.next svg {
+    vertical-align: unset !important;
+}
+
+.prev:hover,
+.next:hover {
+    background-color: #EB222C;
+    color: white !important;
+}
+
+.arrow {
+    position: absolute;
+    left: -26.5rem;
+    bottom: -15px;
+}
+
+.review_swiper .swiper-slide-active {
+    padding-left: 35px;
+    width: 350px !important;
+    height: 260px !important;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #312D3A;
+    font-size: 18px;
+}
+
+.review_swiper .swiper-slide-active .color_red {
+    color: #EB222C;
+}
+
+.review_swiper .swiper-slide-active .color_black1 {
+    color: black;
+}
+
+.review_swiper .swiper-slide-next .color_black,
+.review_swiper .swiper-slide-duplicate-prev .color_black {
+    color: black;
+}
+
+.review_swiper .swiper-slide-next .color_gray,
+.review_swiper .swiper-slide-duplicate-prev .color_gray {
+    color: #9B999F;
+}
+
+.review_swiper .swiper-slide-next,
+.review_swiper .swiper-slide-duplicate-prev {
+    width: 275px !important;
+    height: 240px !important;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: rgba(139, 139, 139, 0.92);
+}
+
+.card_icon {
+    display: none;
+}
+
+.span_none {
+    display: none;
+}
+
+.review_swiper .swiper-slide-active .span_none {
+    display: block;
+}
+
+.review_swiper .swiper-slide-active .card_icon {
+    position: absolute;
+    display: block;
+    font-size: 50px;
+    color: #EB222C;
+    right: 10px;
+    top: -28px;
+}
+
+.Dating_tips {
+    margin-bottom: 50px;
+}
+
+.Dating_tips h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+
+}
+
+.Dating_tips span {
+    font-weight: 600;
+}
+
+.Dating_tips p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    /* or 147% */
+
+    letter-spacing: 0.01em;
+
+    color: rgba(93, 91, 97, 0.92);
+}
+
+.Dating_tips ul {
+    list-style-type: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.Dating_tips h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    color: #3A3A3A;
+
+
+}
+
+.Footer {
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+    text-align: center;
+}
+
+.Footer ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px 0 10px 20px;
+
+}
+
+.Footer ul li a {
+    padding-right: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+
+.Footer ul li a:hover {
+    color: #eb222c;
+    text-decoration: none;
+}
+
+.Footer ul li:not(:nth-child(5)) {
+    border-right: 1px solid #E8E8E8 !important;
+}
+
+.Footer_add {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 16px;
+    line-height: 22px;
+    padding-left: 10px;
+    margin-bottom: 0px !important;
+    color: #1F1B29;
+}
+
+.footer_end p {
+    margin-top: 1rem;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #848484;
+}
+
+.footer_end ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 15px 0 15px;
+}
+
+.footer_end ul li svg path {
+    fill: black !important;
+}
+
+.footer_end ul li:hover svg path {
+    fill: #EB222C !important;
+    cursor: pointer;
+}
+
+.text-underline {
+    border-bottom: 1px solid #EB222C;
+}
+
+.css-hyum1k-MuiToolbar-root {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+/* ==================== Sign-up page================================ */
+
+.Sign_up {
+    height: 100%;
+    background-color: #F9FDFF;
+}
+
+.Sign_up .sinu-up-card2 {
+    height: 100%;
+    margin: 5rem 4rem 0 10rem;
+}
+
+.Sign_up img {
+    height: 100%;
+    width: 100%;
+}
+
+.agree {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: rgba(46, 40, 65, 0.92);
+    padding-left: 5px;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+    color: #EB222C !important;
+}
+
+.forgot_pass_lable {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: right;
+    letter-spacing: 0.01em;
+
+    color: rgba(46, 40, 65, 0.92);
+}
+
+.css-dmmspl-MuiFormGroup-root,
+.css-1h7anqn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.css-anmq6p-MuiTypography-root {
+    margin-bottom: 0 !important;
+}
+
+/* ===============================================*/
+
+.serach_bar {
+    position: relative;
+    padding: 1rem 0;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 12px 4px rgba(0, 0, 0, 0.05);
+}
+
+.serach_bar .Mui-focused {
+    color: #000 !important;
+}
+
+.MuiOutlinedInput-root {
+    background: #FFFFFF;
+    /* border: 1px solid #B9BFC8; */
+    /* border-radius: 5px; */
+}
+
+/* .css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input::placeholder {
+    color: #A3ACB0 !important;
+} */
+
+.serach_bar #outlined-multiline-flexible,
+.serach_bar #outlined-select-currency,
+.serach_bar #outlined-select-interests {
+    width: 180px;
+    /* color: #A3ACB0 !important; */
+}
+
+.serach_bar #outlined-select-height,
+.serach_bar #outlined-select-weight,
+.serach_bar #outlined-select-Age {
+    width: 110px;
+    /* color: #A3ACB0 !important; */
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+    color: #A3ACB0 !important;
+}
+
+.serach_bar .css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root,
+.serach_bar .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input,
+.serach_bar .css-qiwgdb.css-qiwgdb.css-qiwgdb,
+.serach_bar .css-1hof3tc,
+.serach_bar .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,
+.serach_bar .css-1x5jdmq {
+    padding: 12.5px 14px !important;
+}
+
+.serach_bar .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input :first-child {
+    color: #A3ACB0 !important;
+}
+
+.serach_bar .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    top: -4px !important;
+}
+
+.serach_bar .MuiFormControl-root {
+    margin-top: 10px;
+}
+
+.serach_bar .MuiOutlinedInput-root {
+    margin-right: 10px;
+}
+
+.serach_bar .search_btn {
+    margin-top: 10px;
+    position: absolute;
+    background-color: #EB222C;
+    color: white;
+    font-size: 24px;
+    border-radius: 5px;
+    height: 48px;
+    width: 56px;
+    padding: 2px 16px;
+}
+
+.serach_bar .search_btn:hover {
+    background-color: #3A3A3A;
+    cursor: pointer;
+}
+
+.serach_bar .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root.Mui-error {
+    color: #A3ACB0 !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border: 1px solid #A3ACB0 !important;
+}
+
+.fillter_result {
+    background-color: #F9FDFF;
+}
+
+.fillter_result .filter_res {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.fillter_result .filter_res h1 {
+    margin-bottom: 0px !important;
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.fillter_result button {
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 27px !important;
+    letter-spacing: 0.03em !important;
+    color: #363636 !important;
+    border-radius: 0px !important;
+}
+
+.fillter_result button:hover {
+    background-color: #F9FDFF;
+}
+
+
+.search_card .card-content {
+    position: relative;
+    height: 68vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(0deg, #000000 -0.39%, rgba(0, 0, 0, 0) 38.83%), url("../../../public/assest/Images/card3.png");
+}
+.search_card .card-content .back_img{
+    filter: brightness(50%);
+}
+.css-46bh2p-MuiCardContent-root {
+    padding: 0 !important;
+}
+
+.search_card .eye_icon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: #EB222C;
+    border-radius: 50%;
+    padding: 4px 10px 0px 10px;
+    font-size: 26px;
+    color: white;
+
+}
+
+.search_card .eye_icon:hover {
+    background-color: #3A3A3A;
+    cursor: pointer;
+}
+
+.search_card .eye_icon svg {
+    top: 5px;
+    vertical-align: baseline !important;
+}
+
+.search_card .details {
+    padding: 20px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.search_card .details h6 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: white;
+}
+
+.search_card .details p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: #E4E4E4;
+    margin-bottom: 0px;
+}
+
+.search_card .details .img {
+    margin-left: -4px;
+}
+
+.search_card .details .hobbies {
+    margin-top: 10px;
+    border-radius: 7px;
+    padding: 5px 10px;
+    border: 1px solid #5F5D5D;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    margin-right: 10px;
+}
+
+.search_card .details .more_hobi,
+.more_hobi {
+    border-color: #EB222C !important;
+    color: #EB222C;
+}
+
+textarea::placeholder {
+    color: #A3ACB0 !important;
+}
+
+.mob_fil {
+    display: none;
+}
+
+.mob_fil .collapse_btn {
+    position: absolute;
+    top: 90px;
+    right: 30px;
+    background-color: #EB222C !important;
+    padding: 7px 20px !important;
+    letter-spacing: 1px !important;
+    border: none !important;
+    color: white !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    font-family: "Lato" !important;
+    margin: 10px !important;
+    border-radius: 10px !important;
+}
+
+.form-check .form-check-input {
+    background-color: #D9D9D9;
+    border: none;
+    width: 22px !important;
+    height: 22px;
+    margin-right: 2px;
+    border-radius: 2px !important;
+}
+
+.form-check .check_box {
+    width: 1.6rem !important;
+    border: 1px solid #D9D9D9 !important;
+}
+
+.form-check-input:checked[type=checkbox] {
+    background-image: url("../../../public/assest/Images/right2.svg") !important;
+
+}
+
+.form-check-input:checked {
+    /* padding: 2px; */
+    background-color: white !important;
+    border: 1px solid #EB222C !important;
+}
+
+.form-check-input:focus {
+    box-shadow: none !important
+}
+
+/* .css-5poeop {
+    background-color: white !important;
+} */
+
+.css-i6s8oy {
+    justify-content: space-between !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.number_details {
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    /* or 150% */
+
+    letter-spacing: 0.01em !important;
+
+    color: rgba(46, 40, 65, 0.92) !important;
+}
+
+.OTP_Details {
+    font-family: 'Reckless Neue' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18.5px !important;
+    line-height: 27px !important;
+    /* identical to box height, or 146% */
+    margin-top: 20px !important;
+    margin-bottom: 15px !important;
+    letter-spacing: 0.01em !important;
+
+    color: rgba(46, 40, 65, 0.92) !important;
+}
+
+/* =================================================== */
+.extra_part {
+    background-color: #F0F0F0;
+    height: 177px;
+}
+
+.Profile_page {
+    /* position: relative; */
+    background-color: #F9FDFF;
+}
+
+.profilecard {
+    margin-top: -110px;
+
+}
+
+.profile_swiper {
+    position: relative;
+    height: 545px;
+    padding: 20px;
+}
+
+.profile_swiper img {
+    width: 100%;
+    height: 500px;
+}
+
+.profile_swiper .swiper-slide-next {
+    opacity: 0.5 !important;
+    margin-right: 0px !important;
+}
+
+.profile_swiper .swiper-slide-active {
+    width: 400px !important;
+    margin-right: 10px;
+}
+
+.profile_swiper .swiper-button-next,
+.profile_swiper .swiper-button-prev {
+    background-color: transparent !important;
+    top: 52% !important;
+}
+
+.profile_swiper .swiper-button-prev::after,
+.profile_swiper .swiper-button-next::after {
+    font-size: 20px !important;
+}
+
+.profile_swiper h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+}
+
+.profile_swiper h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: rgba(46, 40, 65, 0.92);
+}
+
+.w_100 {
+    margin: 20px 10px 5px 0;
+    width: 100px;
+    height: 4px;
+    background: #D9D9D9;
+}
+
+.w_43 {
+    margin-bottom: 5px;
+    width: 43px;
+    height: 4px;
+    background: #D9D9D9;
+}
+
+.img_profile,
+.btn_img {
+    width: 22px !important;
+    height: 22px !important;
+    margin-right: 15px;
+}
+
+.profile_swiper ul {
+    margin: 0;
+    padding: 0;
+}
+
+.profile_swiper ul li {
+    list-style: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 38px;
+    /* or 281% */
+
+    letter-spacing: 0.03em;
+
+    color: #1F2121;
+}
+
+.profile_btn {
+    border-radius: 10px !important;
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    padding: 12px 0 !important;
+    line-height: 25px !important;
+    text-align: center !important;
+    letter-spacing: 0.02em !important;
+    color: #FFFFFF !important;
+
+}
+
+.profile_about {
+    padding: 20px;
+}
+
+.profile_about p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    color: rgba(46, 40, 65, 0.92);
+}
+
+.profile_about h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: #000000;
+    margin-bottom: 0 !important;
+}
+
+.hobbies {
+    margin-top: 10px;
+    border-radius: 50px;
+    padding: 5px 10px;
+    border: 1px solid #5F5D5D;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    margin-right: 10px;
+}
+
+.about_me h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    margin-top: 4rem !important;
+}
+
+.about_me h5 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: rgba(46, 40, 65, 0.92);
+    margin: 10px 0 15px 0;
+}
+
+.about_me .card {
+    border: none;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 14px 5px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    padding: 20px 10px;
+}
+
+.about_me .card h5 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27px;
+    /* identical to box height, or 117% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+}
+
+.about_me .card p {
+    margin-bottom: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: rgba(46, 40, 65, 0.92);
+}
+
+.about_me .card hr {
+    margin-bottom: 0 !important;
+}
+
+.ser_img {
+    /* box-sizing: 10px 10px 10px red !important */
+    box-shadow: -10px 7px 2px -5px #EB222C !important;
+    margin-top: -30px;
+    margin-bottom: -20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 5px 40px 20px 40px;
+    width: 64%;
+    height: 170px;
+    border: 2px solid white;
+}
+
+.about_me .swiper-wrapper {
+    padding-bottom: 60px;
+}
+
+.about_me .swiper-pagination-bullet-active {
+    background: #EB222C !important;
+}
+
+.css-13sljp9 {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+}
+
+.fixed_img {
+    position: sticky;
+    height: 100%;
+    top: 65px;
+    right: 0;
+}
+
+.css-1vovazs {
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.css-1ptx2yq-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled):before {
+    border-bottom: 2px solid #eb222c !important;
+}
+
+.css-a3l6o-MuiInputBase-root-MuiInput-root-MuiSelect-root:hover:not(.Mui-disabled):before {
+    border-bottom: 2px solid #eb222c !important;
+}
+
+.css-a3l6o-MuiInputBase-root-MuiInput-root-MuiSelect-root:after {
+    border-bottom: 2px solid #eb222c !important;
+}
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input,
+.MuiInput-root {
+    font-family: 'Reckless Neue' !important;
+    color: #000 !important;
+}
+
+/* ==========================Profile info========================================= */
+.profile_Header h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.profile_Header p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #2E2841;
+}
+
+.profile_Header {
+    background-color: #F9FAFB !important;
+    padding: 50px 0;
+}
+
+.about_me .css-bhp9pd-MuiPaper-root-MuiCard-root,
+.about_me .css-s18byi {
+    background: #FFFFFF !important;
+    box-shadow: 0px 2px 14px 5px rgba(0, 0, 0, 0.04) !important;
+    border-radius: 12px !important;
+}
+
+.about_me .eye_icon {
+    display: none;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: #EB222C;
+    border-radius: 50%;
+    padding: 3px 7px 0px 7px;
+    font-size: 20px;
+    color: white;
+
+
+}
+
+.about_me .card:hover .eye_icon {
+    display: block;
+    cursor: pointer;
+}
+
+.about_me .eye_icon svg {
+    top: 5px;
+    vertical-align: baseline !important;
+}
+.about_me .eye_icon:hover{
+    background-color: #3A3A3A;
+}
+.profile_card .MuiPaper-root {
+    padding: 30px;
+    margin: 30px 0;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 12px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+}
+
+.profile_card .Img_Upload {
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    text-align: inherit !important;
+}
+
+.profile_card .Img_Upload h6 {
+
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    letter-spacing: 0.01em !important;
+    color: #2E2841 !important;
+}
+
+.profile_card .Img_Upload p {
+
+    text-align: inherit !important;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+}
+
+.profile_card .Img_Upload .Upload_box {
+    text-align: center;
+    padding: 3rem 2rem;
+    display: flex;
+    flex-direction: column;
+    border: 3px dashed #D0D4DB;
+    background: #F6F7F9;
+    border-radius: 8px;
+}
+
+.profile_card .Img_Upload .Upload_box img {
+    height: 40px;
+}
+
+.profile_card .Img_Upload .note {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center !important;
+    margin-top: 10px;
+    letter-spacing: 0.01em;
+    color: #414045;
+}
+
+.close_icon {
+    position: absolute;
+    right: 5px;
+    top: 20px;
+    background-color: #EB222C;
+    border-radius: 50%;
+    padding: 3px 7px 0px 7px;
+    font-size: 20px;
+    color: white;
+}
+
+.close_icon:hover {
+    background-color: #3A3A3A;
+}
+
+.close_icon svg {
+    top: 5px;
+    vertical-align: baseline !important;
+}
+
+.uploade_img {
+    position: relative;
+
+}
+
+.uploade_img img {
+    height: 190px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.display_none {
+    display: none;
+}
+
+.profile_card .name {
+    background: #F9FAFB;
+    border: 2px solid #D0D4DB;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.profile_card .name h6 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height, or 129% */
+
+    letter-spacing: 0.03em;
+
+    color: #000000;
+
+}
+
+.profile_card .name span {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    /* or 178% */
+
+    letter-spacing: 0.02em;
+
+    color: #171618;
+
+}
+
+.profile_card .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root,
+.ant-select:not(.ant-select-customize-input) .ant-select-selector,
+.profile_card .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,
+.profile_card .css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root,
+.profile_card .css-1v4ccyo,
+.profile_card .css-fvipm8,
+.profile_card .css-1hof3tc {
+    margin-top: 3px !important;
+    border: 2px solid #B9BFC8 !important;
+    border-radius: 5px !important;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    padding: 5px 14px;
+}
+
+.profile_card .birthday .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root,
+.profile_card .birthday .css-1v4ccyo {
+    margin-right: 10px;
+    max-width: 100px;
+    flex-direction: unset !important;
+}
+
+.ant-select-multiple .ant-select-selection-item-remove {
+    line-height: 26px !important;
+}
+
+.ant-select-multiple.ant-select-lg .ant-select-selection-item {
+    line-height: 28px !important;
+}
+
+.profile_card .css-1d3z3hw-MuiOutlinedInput-notchedOutline,
+.profile_card .css-igs3ac {
+    border: none !important
+}
+
+.profile_card .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    font-style: normal;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #525252;
+}
+
+.profile_card .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,
+.profile_card .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input,
+.profile_card .css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root,
+.profile_card .css-qiwgdb,
+.profile_card .css-1x5jdmq{
+    padding: 12.5px 14px !important
+}
+
+.profile_card .birthday .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,
+.profile_card .birthday .css-1x5jdmq {
+    text-align: center;
+}
+
+.profile_card .input_lable,
+.profile_card .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.MuiSelect-select,
+.profile_card .css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input,
+.profile_card .MuiOutlinedInput-input {
+    font-family: 'Reckless Neue' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    letter-spacing: 0.01em !important;
+    color: #171618 !important;
+}
+.about_info .MuiOutlinedInput-input::placeholder{
+    color: #2f2d2d !important;
+}
+.profile_card hr {
+    color: #B9BFC8;
+    margin: 2rem 0 !important;
+}
+
+.profile_card hr:not([size]) {
+    height: 2px !important;
+}
+
+.profile_card .Custom_Btn {
+    width: 225px;
+}
+
+.profile_card .MuiTableHead-root .MuiTableRow-root {
+    background-color: #EB222C;
+}
+
+.profile_card .MuiTableRow-root .MuiTableCell-root {
+    font-family: 'Lato';
+    font-style: normal;
+}
+
+.profile_card .MuiTableHead-root .MuiTableRow-root .MuiTableCell-root {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.css-1ex1afd-MuiTableCell-root {
+    padding: 20px 16px !important;
+}
+
+.profile_card .plan_box {
+    text-align: center;
+    border: 1px solid #EFEFEF;
+    box-shadow: 0px 1px 10px 4px rgba(0, 0, 0, 0.02);
+    border-radius: 12px;
+    height: 265px;
+    width: 100%;
+    background-color: white;
+}
+
+.profile_card .plan_box .label_box {
+    position: relative;
+    background: linear-gradient(85.22deg, #DD1620 -11.01%, #FF767D 148.25%);
+    border-radius: 0px 0px 12px 12px;
+    width: 100%;
+    top: -12px;
+    height: 55px;
+    padding-top: 15px;
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    z-index: 10;
+    min-width: 180px;
+}
+
+.profile_card .plan_box .main_box {
+    display: flex;
+    width: 100%;
+    background-color: white;
+    justify-content: space-around;
+}
+
+.profile_card .plan_box .main_box::before {
+    position: relative;
+    content: url(../../../public/assest/Images/Rectangle\ 509.png);
+    top: -16.5px;
+    left: 45.5px;
+}
+
+.profile_card .plan_box .main_box::after {
+    content: url(../../../public/assest/Images/Rectangle\ 509.png);
+    position: relative;
+    top: -16.5px;
+    right: 42px;
+}
+
+.plan_box h1 {
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 18px;
+    margin-top: 40px;
+    letter-spacing: 0.01em;
+    color: #2E2841;
+}
+
+.plan_box .Custom_Btn {
+    margin: 20px 0;
+    width: 130px !important;
+    background-color: #3A3A3A !important
+}
+
+.plan_box .Custom_Btn:hover {
+    background-color: #EB222C !important;
+}
+
+.dashboard {
+
+    font-family: 'Lato';
+    font-style: normal;
+}
+
+.dashboard h2 {
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    color: #171718;
+}
+
+.dashboard span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #474753;
+}
+
+.dashboard .box {
+    background-color: #EB222C;
+    height: 122px;
+    width: 100%;
+    color: white;
+    border-radius: 3px;
+}
+
+.label_box .dashboard .box img {
+    width: 64px;
+    height: 64px;
+    margin: 0 20px;
+}
+
+.dashboard .box .img2 {
+    width: 84px;
+    height: 84px;
+    margin: 0 10px;
+}
+
+.dashboard .box h6 {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.dashboard .box h1 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 0;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.dashboard .box .line1 {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    width: 74px;
+    height: 3px;
+    background-color: #FFFFFF;
+    border-radius: 19px;
+}
+
+.dashboard .box .line2 {
+    position: absolute;
+    bottom: 10px;
+    left: 94px;
+    width: 22px;
+    height: 3px;
+    background-color: #FFFFFF;
+    border-radius: 19px;
+    margin-left: 10px;
+}
+
+.dashboard h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #171718;
+    margin: 35px 0 18px 0;
+}
+
+.dashboard .MuiTableHead-root .MuiTableRow-root {
+    background-color: #3A3A3A;
+    border-radius: 3px;
+}
+
+
+/* ===================FAQ=============== */
+
+.faq_main {
+    background: url("../../../public/assest/Images/Faqback.png");
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.faq_main h1 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 50px;
+    letter-spacing: 0.02em;
+    margin-bottom: 0;
+    color: #FFFFFF;
+}
+
+.faq_main p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.faq_card {
+    padding: 20px;
+    margin-top: -50px;
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    box-shadow: 0px 2px 12px 4px rgba(0, 0, 0, 0.03) !important;
+    border-radius: 12px !important;
+    margin-bottom: 50px;
+}
+
+.faq_card .MuiTabs-flexContainer {
+    justify-content: center;
+    border-bottom: 0.5px solid #3A3A3A
+}
+
+.css-1aquho2-MuiTabs-indicator,
+.css-ttwr4n {
+    display: none;
+}
+
+.faq_card .css-1gsv261 {
+    border-bottom: none !important;
+}
+
+.faq_card .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,
+.faq_card .css-1q2h7u5.Mui-selected {
+    color: #EB222C !important;
+    text-transform: capitalize;
+    border: 1px solid #EB222C;
+    border-bottom-width: 1px !important;
+    border-bottom-color: white !important;
+    background-color: white;
+    margin-bottom: -1px;
+}
+
+.faq_card .css-1h9z7r5-MuiButtonBase-root-MuiTab-root img path {
+    fill: red !important;
+}
+
+.faq_card .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,
+.faq_card .css-1q2h7u5 {
+    padding: 7px 30px;
+    margin-right: 20px;
+    text-transform: capitalize;
+    border: 1px solid #3A3A3A;
+    background: #3A3A3A;
+    border-radius: 4px 4px 0 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+}
+
+.faq_card .css-19kzrtu {
+    padding: 24px 0 !important;
+}
+
+.faq_card .css-19kzrtu p .MuiPaper-root .MuiButtonBase-root .MuiAccordionSummary-content p {
+    font-family: 'Lato' !important;
+    font-style: normal;
+}
+
+.faq_card .MuiAccordionSummary-content.Mui-expanded,.css-z01bqi {
+    color: #EB222C !important;
+}
+
+.faq_card .MuiPaper-root {
+    box-shadow: none !important;
+    border-bottom: 1px solid #BABEBF;
+    border-radius: 0px !important;
+}
+
+.MuiPaper-root::after,
+.MuiPaper-root:before {
+    background-color: #BABEBF !important;
+    opacity: 0 !important;
+}
+
+.faq_card .ans {
+    font-family: 'Lato' !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 33px;
+    letter-spacing: 0.01em;
+    color: #5B5C60;
+}
+
+.faq_card .css-i4bv87-MuiSvgIcon-root path,
+.faq_card .MuiSvgIcon-root path {
+    display: none;
+}
+
+.faq_card .MuiAccordionSummary-content,
+.faq_card .MuiAccordionSummary-content {
+    padding: 12px 0 7px 0;
+}
+
+.faq_card .MuiAccordionSummary-expandIconWrapper {
+    transform: rotate(0deg) !important;
+    background: url("../../../public/assest/Images/+.svg");
+    background-repeat: no-repeat;
+}
+
+.faq_card .MuiAccordionSummary-expandIconWrapper.Mui-expanded {
+    transform: rotate(0deg) !important;
+    background: url("../../../public/assest/Images/-.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.about_main {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../../public/assest/Images/about.png);
+}
+
+.Conatct_main {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../../public/assest/Images/contact.png);
+}
+.about_info{
+    padding: 30px;
+}
+.about_info h3 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 39px;
+    color: #19191C;
+}
+
+.about_info p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #474753;
+}
+
+.about_info .Card_color {
+    background-color: #EB222C !important;
+    margin-top: 60px;
+    color: white;
+}
+
+.about_info .Card_color .MuiGrid-item {
+    padding-top: 0px !important;
+}
+
+.about_info .Card_color .card_content {
+    border-right: 1px solid #D9D9D9;
+    padding: 25px 0;
+}
+
+.about_info .MuiPaper-root {
+    margin-top: 50px;
+    padding: 20px;
+    background: #FFFFFF;
+    border: 1px solid #F5F5F5;
+    box-shadow: 0px 2px 8px 2px rgba(0, 0, 0, 0.06) !important;
+    border-radius: 6px !important;
+}
+
+.Card_about h2 {
+    font-family: 'Tiempos Headline';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 27px;
+    color: #19191C;
+}
+
+.Card_about .red_bor {
+    width: 59px;
+    height: 5px;
+    background: #EB222C;
+}
+
+.Card_about hr {
+    margin: 0 !important;
+}
+
+.Card_about p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    text-align: justify;
+
+    color: #474753;
+    margin-top: 20px;
+}
+
+.about_info .card_contact {
+    padding: 30px 25px;
+    margin-top: 30px;
+    background-color: #3A3A3A;
+}
+
+.about_info .MuiOutlinedInput-input {
+    font-family: "Lato" !important;
+}
+
+.about_info .profile_card .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused,
+.about_info .profile_card .css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused,
+.about_info .profile_card .css-1v4ccyo.Mui-focused,
+.about_info .profile_card .css-1hof3tc.Mui-focused {
+    border-color: #EB222C !important;
+}
+
+.card_contact p {
+    font-family: 'Reckless Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.card_contact h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.card_contact hr{
+    color: white;
+}
+.card_contact .footer_end ul{
+    padding: 0 !important;
+}
+.card_contact .footer_end ul li{
+    padding-left: 0 !important;
+    padding-right: 30px !important;
+}
+.card_contact .footer_end ul li svg path{
+   fill: gray !important;
+}
+.card_contact .footer_end ul li svg path:hover{
+   fill: #EB222C !important;
+}
+#number:-webkit-autofill{
+    background: white !important;
+    -webkit-background: white !important;
+}
+.css-u30lmt ,.css-r40f8v-MuiTypography-root{
+ font-family: "Reckless Neue" !important;
+}
+.sort_by .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input, .sort_by span, .sort_by .css-qiwgdb{
+    padding: 0px;
+    background-color: #F9FDFF;
+    font-family: 'Lato' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 27px !important;
+    letter-spacing: 0.03em !important;
+    color: #363636 !important;
+    border-radius: 0px !important;
+}
+.sort_by .MuiOutlinedInput-notchedOutline , .sort_by .css-1k3x8v3{
+    border: none !important;
+}
+.language_margin{
+    margin-top: -20px;
+}

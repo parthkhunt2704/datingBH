@@ -1,0 +1,238 @@
+{
+    "home": {
+        "banner": {
+            "banner_title_1": "الطريق الى",
+            "banner_title_2": "تاريخ",
+            "banner_text": "Lorem ipsum dolor sit amet consectetur، adipisicing elit. لوريم ، إيبسوم. في، eligendi .....",
+            "please_enter_name": "من فضلك ادخل الاسم"
+        },
+        "card": {
+            "text": "ما يقرب من 4 ملايين استخدم المواعدة."
+        },
+        "member": {
+            "title_1": "كل شيء يبدأ بتاريخ فقط",
+            "title_2": "أناس حقيقيون",
+            "text_1": "تجدنا ، أخيرا ، وأنت بالفعل في حالة حب. شارك أكثر من 4.000.000 في جميع أنحاء العالم بالفعل نفس التجارب ويستخدم نظامنا. الانضمام إلينا اليوم حصل للتو ، تعلم منهم وحاول الوصول إلى هذا المجلس. هذا يعتمد على BuddyPress لوظائف المجتمع. يسمح لك بسهولة إنشاء ومجتمع للمواعدة. يمكنك إضافة نص العلامة التجارية الخاصة بك والصور على الفور.",
+            "text_2": "تعلم منهم وحاول الوصول إلى هذه اللوحة. هذا يعتمد على BuddyPress لوظائف المجتمع. يسمح لك بإضافة نص وصور العلامة التجارية الخاصة بك بسهولة على الفور.",
+            "swiper_title": "أحدث الأعضاء المسجلين"
+        },
+        "user_say": {
+            "title_1": "ما المستخدمين لدينا",
+            "title_2": "قال",
+            "text_1": "تعلم منهم وحاول الوصول إلى هذه اللوحة. هذا يعتمد على BuddyPress لوظائف المجتمع. يسمح لك بإضافة صورك بسهولة على الفور.",
+            "swiper_title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum dolor architecto provident? Possimus sunt laborum voluptatibus, Lorem ipsum dolor.",
+            "swiper_title2": "Lorem ipsum dolor sit amet.",
+            "swiper_name": "الدولة الموحدة",
+            "swiper_bottom": "ديسنجر"
+        },
+        "tips": {
+            "title_1": "التي يرجع تاريخها",
+            "title_2": "النصائح",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+            "text_1": "إنها حقيقة راسخة منذ فترة طويلة أن القارئ سوف يصرف انتباهه عن المحتوى القابل للقراءة للصفحة عند النظر إلى تخطيطها.",
+            "text_2": "الهدف من استخدام Lorem Ipsum هو أنه يحتوي على توزيع طبيعي إلى حد ما للحروف ، بدلا من استخدام المحتوى هنا ، المحتوى هنا ، مما يجعله يبدو وكأنه إنجليزي قابل للقراءة.",
+            "text_3": "سوف يصرف انتباه القارئ عن طريق المحتوى القابل للقراءة للصفحة عند النظر إلى تخطيطها.",
+            "text_4": "الهدف من استخدام Lorem Ipsum هو أنه يحتوي على توزيع طبيعي أكثر أو أقل للحرف"
+        }
+    },
+    "navbar": {
+        "about": "عن",
+        "contact": "الاتصال",
+        "faq": "الأسئلة المتداولة",
+        "login": "تسجيل الدخول",
+        "logout": "الخروج",
+        "Request": "طلب",
+        "Buy_Plan": "شراء خطة",
+        "My_Plan": "خطتي",
+        "Search": "بحث",
+        "My_account": "حسابي",
+        "Profile": "ملف تعريف",
+        "Privacy_Policy": "سياسة الخصوصية",
+        "Terms": "الشروط والأحكام",
+        "email": "info@dating.com",
+        "footer1": "© 2022 جميع الحقوق محفوظة لشركة",
+        "footer2": "المواعدة Bh"
+    },
+    "about": {
+        "title": "حول المواعدة BH",
+        "bredcumb1": "مسكن",
+        "bredcumb2": "معلومات عنا",
+        "main_text": "هذا عنوان وهمي ببساطة أو بعض التسميات التوضيحية تظهر هنا",
+        "text1": "Lorem ipsum dolor amet the consectetur adipiscing eiusmod incidun caption laibore lorem ipsum dolor aaamet caption lorem ipsum dolor amet consectetur the adipiscing caption ipsum dolor sit amet consectetur adipiscing eiusmod tempor incidunt the caption lorem ipsum dolor aaamet caption lorem ipsum dolor amet lorem ipsum dolor aaamet caption lorem ipsum sit amet، consectetur the adipiscing caption ipsum dolor sit amet consectetur it adipiscing the eiusmod tempor incidunt التسمية التوضيحية laibore lorem تتضمن تفاصيل وهمية.",
+        "text2": "Lorem ipsum dolor amet the consectetur adipiscing eiusmod incidunt التسمية التوضيحية laibore lorem ipsum dolor aaamet التسمية التوضيحية lorem ipsum dolor sit amet ، consectetur adipiscing.",
+        "box1": "رؤيتنا",
+        "box2": "مهمتنا",
+        "box_text": "Lorem ipsum dolor amet the dolor aaamet تسمية توضيحية تقول lorem ipsum dolor sit amet. consectetur adipiscing eiusmod incidunt التسمية التوضيحية laibore lorem ipsum dolor aaamet التسمية التوضيحية lorem ipsum. Lorem ipsum dolor amet the dolor aaamet التسمية التوضيحية النص ipsum dolor amet consectetur adipiscing eiusmod dummy text."
+    },
+    "contact": {
+        "title": "اتصل بنا",
+        "bredcumb1": "مسكن",
+        "bredcumb2": "اتصل بنا",
+        "f_name": "الاسم الاول",
+        "l_name": "اللقب",
+        "email": "عنوان البريد الالكترونى",
+        "number": "رقم الهاتف",
+        "massage": "رسالة",
+        "button": "يُقدِّم",
+        "reach": "تواصل معنا",
+        "reach_text": "Lorem ipsum dolor sit amet، consectetur adipiscing elit sed do some dummy caption eiusmod tempor aliqua.",
+        "call": "اتصل بنا على",
+        "call_text": "+91 9876541321 ، 033 32145",
+        "e_mail": "راسلنا على البريد الإلكتروني",
+        "E_mail_text": "info@dating.com",
+        "social": "تواصل مع وسائل التواصل الاجتماعي",
+        "placeholder":{
+            "name":"أدخل هنا",
+            "email":"أدخل بريدك الإلكتروني",
+            "number":"أدخل رقم هاتفك",
+            "massage":"أدخل رسالتك"
+        },
+        "error":{
+            "f_name":"يرجى ادخال الاسم الاول",
+            "l_name":"الرجاء إدخال اسمك الأخير",
+            "email":"رجاءا أدخل بريدك الإلكتروني",
+            "number":"الرجاء إدخال رقم الهاتف المحمول",
+            "massage":"الرجاء إدخال التدليك الخاص بك",
+            "number_2": "يجب أن يتكون رقم الهاتف من 10 أرقام.",
+            "email_2":"عنوان البريد الإلكتروني غير صالح!"
+        }
+    },
+    "my_plan":{
+        "title":"خطتي",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed "
+    },
+    "table_header":{
+        "plan":"يخطط",
+        "amount":"مقدار",
+        "purchased_on":"تم شراؤها",
+        "contact_view":"طرق عرض جهات الاتصال",
+        "contact_view_used":"طرق عرض جهات الاتصال المستخدمة",
+        "contact_view_remaining":"طرق عرض جهات الاتصال المتبقية",
+        "name":"اسم",
+        "date_time":" التاريخ و الوقت"
+    },
+     "buy_plan":{
+        "title":"خطة الشراء",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed ",
+        "card_text":"طرق عرض معلومات الاتصال",
+        "card_button":"اشتري الآن"
+    },
+    "profile_request":{
+        "title":"طلبات الاتصال بملف التعريف الخاص بي",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed "
+    },
+    "faq":{
+        "title":"أسئلة مكررة",
+        "bredcumb1":"مسكن",
+        "bredcumb2":"التعليمات",
+        "boy":"للأولاد",
+        "girl":"للفتيات"
+    },
+    "form":{
+        "signup_modal": {
+            "title": "نضم الان",
+            "name": "اسم",
+            "first_name":"الاسم الاول",
+            "last_name":"اللقب",
+            "nationality":"جنسية",
+            "con_password":"تأكيد كلمة المرور",
+            "agree1":"أوافق على DatingBh جميع",
+            "agree2":"الشروط والأحكام",
+            "agree3":"و",
+            "agree4":"سياسة الخصوصية",
+            "already":"هل لديك حساب؟",
+            "gender": "جنس",
+            "male": "ذكر",
+            "female": "أنثى",
+            "number": "رقم الهاتف المحمول",
+            "password":"كلمة المرور",
+            "remember":"تذكرنى",
+            "forgot":"هل نسيت كلمة السر؟",
+            "Login_btn":"تسجيل الدخول",
+            "button": "أفتح حساب الأن",
+            "not":"لست عضوا حتى الآن ؟",
+            "sign":"اشتراك",
+            "password_error":"من فضلك أدخل رقمك السري",
+            "password_error2":"يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.",
+            "name_error": "من فضلك أدخل إسمك",
+            "gender_error": "الرجاء تحديد جنسك",
+            "number_error": "الرجاء إدخال رقم الهاتف المحمول",
+            "number_error2": "يجب أن يتكون رقم الهاتف من 10 أرقام.",
+            "firstname_error":"يرجى ادخال الاسم الاول",
+            "lastname_error":"الرجاء إدخال اسمك الأخير",
+            "nationality_error":"الرجاء تحديد جنسيتك",
+            "con_password_error":"الرجاء إدخال تأكيد كلمة المرور الخاصة بك",
+            "con_password_error2":"كلمة السر غير مطابقة",
+            "agree_error":"يرجى قراءة الشروط والأحكام وسياسة الخصوصية والموافقة.",
+            "image_error":"قم بتحميل صورة واحدة على الأقل للمتابعة",
+            "otp_error":"الرجاء إدخال otp"
+        },
+        "login_title":"مرحبًا بعودتك",
+        "login_verify1":"أنت لم تتحقق من رقم هاتفك المحمول حتى الآن.",
+        "login_verify2":"انقر هنا للتحقق.",
+        "uploade_text1":"انقر هنا للتحميل",
+        "uploade_text2":"يمكنك تحميل ملفات بصيغة jpg و jpeg و png",
+        "otp_title":"التحقق من OTP",
+        "otp_text":"الرجاء إدخال الرمز المكون من 6 أرقام المرسل إليك على",
+        "otp_enter":"أدخل OTP",
+        "otp_button":"يُقدِّم",
+        "otp_bottom_text1":"ألم تستلم OTP حتى الآن؟",
+        "otp_bottom_text2":"إعادة إرسال OTP"
+    },
+    "profile":{
+        "title":"الآن أكمل معلومات ملفك الشخصي",
+        "text":"يرجى ملء الحقول أدناه للمتابعة",
+        "button":"احفظ كل المعلومات"
+    },
+    "dashborad":{
+        "title":"لوحة القيادة",
+        "text":"Lorem ipsum dolor sit amet، consectetur adipiscing elit، sed do eiusmod.",
+        "last":"آخر تسجيل دخول",
+        "sing":"اشترك في موقع DatingBH",
+        "profile":"ملفي الشخصي شوهد",
+        "view":"عرضت مؤخرا ملفي الشخصي"
+    },
+    "search":{
+        "keyword":"الكلمات الدالة",
+        "nationality":"جنسية",
+        "age":"سن",
+        "weight":"وزن",
+        "height":"ارتفاع",
+        "interests":"الإهتمامات",
+        "Showing":"عرض",
+        "of":"من",
+        "results":"النتائج",
+        "sort":"صنف حسب",
+        "rj":"انضم مؤخرا",
+        "htl":"العمر - من الأعلى إلى الأقل",
+        "lth":"العمر - من الأقل إلى الأعلى"
+    },
+    "Girl_Profile":{
+        "headline":"عنوان الشخصية",
+        "birth":"عيد الميلاد",
+        "language":"اللغة تتحدث",
+        "weight":"الوزن (كجم)",
+        "height":"الطول (سم)",
+        "body":"نوع الجسم",
+        "about":"عني",
+        "interests":"الإهتمامات",
+        "upload":"حمل الصورة",
+        "upload_text":"ستكون الصورة الأولى هي صورة الملف الشخصي الافتراضية",
+        "upload_text1":"وغيرها ستكون صور إضافية", 
+        "headline_error":"الرجاء إدخال عنوان ملف التعريف الخاص بك",
+        "birth_error":"من فضلك أدخل تاريخ ميلادك",
+        "language_error":"الرجاء تحديد اللغة",
+        "weight_error":"من فضلك ادخل وزنك",
+        "weight_error2":"الرجاء إدخال وزنك الصحيح",
+        "height_error":"الرجاء تحديد طولك",
+        "body_error": "الرجاء تحديد نوع جسمك",
+        "about_error": "من فضلك ادخل عنك",
+        "interests_error":"الرجاء تحديد اهتمامك",
+        "upload_error":"قم بتحميل صورتين على الأقل للمتابعة",
+        "month_error":"الرجاء إدخال الشهر الخاص بك",
+        "month_error2": "الرجاء إدخال الشهر الصحيح",
+        "date_error":"الرجاء إدخال التاريخ الخاص بك",
+        "date_error2": "الرجاء إدخال التاريخ الصحيح",
+        "year_error":"الرجاء إدخال العام الخاص بك"
+    }
+}
